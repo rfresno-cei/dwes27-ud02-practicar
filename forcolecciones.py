@@ -47,7 +47,7 @@ for i in range(len(lista)):
     print(f'Cadena {i+1}: {lista[i]}')
 
 # Exercise 7
-miset = ('hola', 'adios', 'buenas', 'tardecitas', 'noches')
+miset = {'hola', 'adios', 'buenas', 'tardecitas', 'noches'}
 mas_larga = None
 mayor = 0
 for i in miset:
