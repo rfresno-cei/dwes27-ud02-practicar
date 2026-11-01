@@ -123,7 +123,7 @@ if nombre in diccionario:
     print(diccionario[nombre])
     print(f'Aprobado: {diccionario[nombre] >= 5}')
 
-# Exercise 15
+# Exercise 17
 diccionario = {
     'Pepito': 'abcd',
     'Juanito': '1234',
